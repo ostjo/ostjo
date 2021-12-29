@@ -1,5 +1,5 @@
-### Hi there, I am Johanna 🧃
----
+# Hi there, I am Johanna 🧃
+I’m a **Full Stack Web Developer** with a background in **Design**.
 
 <!--
 **ostjo/ostjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
