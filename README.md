@@ -1,10 +1,10 @@
 # Hi there, I am Johanna 🧃
 I’m a **Full Stack Web Developer** with a background in **Graphic Design**.
 
-Currently, I am ...
-- 🌱 learning TypeScript and Dutch
-- 💅 striving to become a touch typist
-- 👀 looking for a job
+Currently, I am ...  
+🌱 learning TypeScript and Dutch  
+💅 striving to become a touch typist  
+👀 looking for a job  
 <br />
 <a href="http://www.linkedin.com/in/ostjo"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
 
