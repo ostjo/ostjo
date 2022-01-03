@@ -1,4 +1,4 @@
-# Hi there, I am Johanna 🧃
+# Hi there, I am Johanna
 I’m a **Full Stack Web Developer** with a background in **Graphic Design**.
 
 Currently, I am ...  
