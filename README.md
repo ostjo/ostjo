@@ -2,7 +2,7 @@
 I’m a **Full Stack Web Developer** with a background in **Graphic Design**.
 
 Currently, I am ...  
-🌱&emsp;learning TypeScript and Dutch  
+💬&emsp;learning TypeScript and Dutch  
 💅&emsp;striving to become a touch typist  
 👀&emsp;looking for a job  
 
