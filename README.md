@@ -6,7 +6,7 @@ Currently, I am ...
 - 💅 striving to become a touch typist
 - 👀 looking for a job
 <br />
-<a href="http://www.linkedin.com/in/ostjo" target="_blank" rel="noopener noreferrer"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="http://www.linkedin.com/in/ostjo"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
 
 <!--
 **ostjo/ostjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
