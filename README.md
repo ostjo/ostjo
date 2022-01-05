@@ -10,7 +10,7 @@ Currently, I am ...
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 <br />
 <br />
-<a href="http://www.linkedin.com/in/ostjo"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>&emsp; 
+<a href="http://www.linkedin.com/in/ostjo"><img alt="linkedin" height="20" width="20" src="assets/linkedin.svg" /></a>&emsp; 
 <!-- <a href="http://www.linkedin.com/in/ostjo"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a> -->
 <!--
 **ostjo/ostjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
