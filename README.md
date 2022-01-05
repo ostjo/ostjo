@@ -11,7 +11,7 @@ Currently, I am ...
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 <br />
 <br />
-<a href="http://www.linkedin.com/in/ostjo"><img alt="linkedin" src="assets/linkedin-cta.png" height="30px"/></a>&emsp;<a href="mailto:info@johannaost.de"><img alt="e-mail" height="23" src="assets/email.svg" /></a>
+<a href="http://www.linkedin.com/in/ostjo"><img alt="linkedin" src="assets/linkedin-cta.svg" height="30px"/></a>&emsp;<a href="mailto:info@johannaost.de"><img alt="e-mail" height="23" src="assets/email.svg" /></a>
 
 <!--
 -   🔭 I’m currently working on ...
