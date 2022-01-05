@@ -13,8 +13,6 @@ Currently, I am ...
 <br />
 <a href="http://www.linkedin.com/in/ostjo"><img alt="linkedin" height="20" width="20" src="assets/linkedin.svg" /></a>&emsp;<a href="mailto:info@johannaost.de"><img alt="e-mail" height="23" src="assets/email.svg" /></a>
 <!--
-**ostjo/ostjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 -   🔭 I’m currently working on ...
