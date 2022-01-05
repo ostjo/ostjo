@@ -8,7 +8,7 @@ Currently, I am ...
 - 👀&ensp;looking for a job
 
 <br />
-☻&nbsp;&nbsp;Reach me on<br />
+Reach me on<br />
 <br />
 <a href="https://www.linkedin.com/in/ostjo" title="LinkedIn — Johanna Osterrieter"><img alt="linkedin" src="assets/linkedin-cta.svg" height="30px"/></a>&emsp;<a href="mailto:info@johannaost.de" title="Send email"><img alt="email" src="assets/email-cta.svg" height="30px"/></a>&emsp;<a href="https://www.johannaost.de" title="johannaost.de"><img alt="homepage" src="assets/homepage-cta.svg" height="30px"/></a>
 
