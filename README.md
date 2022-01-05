@@ -3,13 +3,12 @@
 I’m a **Full Stack Web Developer** with a background in **Graphic Design**.
 
 Currently, I am ...  
-💬&emsp;learning TypeScript and Dutch  
-💅&emsp;striving to become a touch typist  
-👀&emsp;looking for a job
+- 💬&ensp;learning TypeScript and Dutch  
+- 💅&ensp;striving to become a touch typist  
+- 👀&ensp;looking for a job
 
 <br />
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-<br />
+☻&nbsp;&nbsp;Reach me on<br />
 <br />
 <a href="https://www.linkedin.com/in/ostjo" title="LinkedIn — Johanna Osterrieter"><img alt="linkedin" src="assets/linkedin-cta.svg" height="30px"/></a>&emsp;<a href="mailto:info@johannaost.de" title="Send email"><img alt="email" src="assets/email-cta.svg" height="30px"/></a>&emsp;<a href="https://www.johannaost.de" title="johannaost.de"><img alt="homepage" src="assets/homepage-cta.svg" height="30px"/></a>
 
