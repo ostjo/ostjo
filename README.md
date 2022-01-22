@@ -1,6 +1,6 @@
 # Hi there, I am Johanna
 
-I’m a **Full Stack Web Developer** with a background in **Graphic Design**.
+I’m a **Full Stack Web Developer** with a background in **Design**.
 
 Currently, I am ...
 
