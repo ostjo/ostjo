@@ -1,11 +1,13 @@
 # Hi there, I am Johanna
 
-I’m a **Full Stack Web Developer** with a background in **Design**.
+I’m a **Frontend Engineer** with a background in **Design**.
 
-Currently, I am ...
+When I am not working on the **relaunch** of my [personal website](https://joh-ost.de), I am probably ...
 
--   💬&ensp;learning TypeScript and Dutch
--   💅&ensp;eager to become a touch typist
+-   💬&ensp;extending my lingo by learning Italian
+-   🧵&ensp;at my sewing machine, juggling threads without deadlocks
+-   🐾&ensp;taking care (and plenty of pictures) of foster cats
+
 
 <br />
 <a href="https://www.linkedin.com/in/ostjo" title="LinkedIn — Johanna Osterrieter"><img alt="linkedin" src="assets/linkedin-cta.svg" height="30px"/></a>&emsp;<a href="mailto:info@johannaost.de" title="Send email"><img alt="email" src="assets/email-cta.svg" height="30px"/></a>&emsp;<a href="https://joh-ost.de" title="joh-ost.de"><img alt="homepage" src="assets/homepage-cta.svg" height="30px"/></a>
